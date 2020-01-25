@@ -25,4 +25,6 @@ class ItemUserViewHolder(view: View, private val listener: Any?) : AbstractViewH
     companion object {
         const val LAYOUT = R.layout.item_user
     }
+
+    //comment
 }
